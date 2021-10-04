@@ -1,0 +1,7 @@
+batch_example.form:
+  path: '/batch-form'
+  defaults:
+    _title: 'Batch Example Form'
+    _form: '\Drupal\batch_example\Form\BatchExampleForm'
+  requirements:
+    _permission: 'access content'
