@@ -28,3 +28,5 @@ Pathauto generates URL aliases of all the nodes, terms and other entities on bas
 We will, now, create a custom module step by step to demonstrate the use of BATCH API.
 
 Email ids are taken as input from the user to verify that all emails are correct.
+
+[Source](https://opensenselabs.com/blogs/tech/how-use-batch-api-drupal-8)
